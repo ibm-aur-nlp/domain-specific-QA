@@ -1,7 +1,7 @@
 # domain-specific-QA
 Extracting six domain-specific QA datasets from MS MARCO
 
-# To generate 6 domain specific QA datasets from MS MARCO
+## To generate 6 domain specific QA datasets from MS MARCO
 
 Please use Python 2.7 environment.
 
