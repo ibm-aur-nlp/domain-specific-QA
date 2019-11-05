@@ -78,10 +78,6 @@ for domain in domain_table:
                             )
             domains[domain][split].append(datum)
 
-for domain in domains:
-    for split in domains[domain]:
-        print domain, split, len(domains[domain][split])
-
 # Save
 if not os.path.exists(args.out_dir):
     os.makedirs(args.out_dir)
