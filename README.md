@@ -1,5 +1,5 @@
 # domain-specific-QA
-Extracting six domain-specific QA datasets from MS MARCO
+Extracting six domain-specific QA datasets from MS MARCO. More details can be found in our paper ["Forget Me Not: Reducing Catastrophic Forgetting for Domain Adaptation in Reading Comprehension"](https://arxiv.org/abs/1911.00202)
 
 ## To generate 6 domain specific QA datasets from MS MARCO
 
